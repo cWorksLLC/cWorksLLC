@@ -1,11 +1,8 @@
 # about me.
-- 👋 Hi, I’m @cWorksLLC
-- 👀 I’m interested in becoming a programmer.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on massive projects.
-- 📫 How to reach me: maybe scratch.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: i can speak russian.
+a fellow programmer who wants to create stuff.
+Programming Languages:
+-Python
+-Bash
 
 <!---
 cWorksLLC/cWorksLLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
