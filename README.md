@@ -3,7 +3,8 @@ a fellow programmer who wants to create stuff.
 Programming Languages:
 
 - Python
-- Bash
+- Bash (in learning)
+- HTML
 
 <!---
 cWorksLLC/cWorksLLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
