@@ -1,5 +1,7 @@
 # about me
-hi, i am a programmer who started at scratch in 2021, and now is looking out to other stuff more advanced. i am currently working from a win11 computer but wants to switch to linux.
+hi, im a casual programmer on github sharing my work. i am currently working from a win11 computer but wants to switch to linux.
+# what introduced me to programming
+i joined scratch in 2021, then i got intrested in python for a bit, then stopped, and revived my interest.
 # programming languages:
 
 - Python
