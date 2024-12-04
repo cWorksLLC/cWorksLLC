@@ -11,12 +11,14 @@ i joined scratch in 2021, then i got intrested in python for a bit, then stopped
 - Python
 - Bash (learning in hiatus)
 - HTML (a bit)
+- Arduino C++ (learning)
 # plan to learn
 
 - JavaScript/TypeScript
 - Squeak
 - CSS
 - Kotlin (android app development of course)
+- Processing
 
 <!---
 cWorksLLC/cWorksLLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
