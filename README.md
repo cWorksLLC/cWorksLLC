@@ -6,7 +6,7 @@ hi, im a casual programmer on github sharing my work. i am currently working fro
 [![](https://visitcount.itsvg.in/api?id=cWorksLLC&label=profile%20views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 [My Gists](https://gist.github.com/cWorksLLC)
-# contact me
+## contact me
 scratch is currently best to contact me but i will respond to github comments but not as often.
 # what introduced me to programming
 i joined scratch in 2021, then i got intrested in python for a bit, then stopped, and revived my interest.
@@ -21,7 +21,6 @@ i joined scratch in 2021, then i got intrested in python for a bit, then stopped
 - JavaScript/TypeScript
 - Squeak
 - CSS
-- Kotlin (android app development of course)
 - Processing
 
 <!---
