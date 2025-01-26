@@ -1,3 +1,4 @@
+(dont mistake me for a real company)
 # about me
 hi, im a casual programmer on github sharing my work. i am currently working from a win11 computer but wants to switch to linux. i also may share some scratch-related stuff here. also i like old phones because post-2010 s30 gives a feeling of exploring it but i cant really describe it.
 ## statistics
