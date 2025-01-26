@@ -2,7 +2,7 @@
 # about me
 hi, im a casual programmer on github sharing my work. i am currently working from a win11 computer but wants to switch to linux. i also may share some scratch-related stuff here. also i like old phones because post-2010 s30 gives a feeling of exploring it but i cant really describe it.
 ## statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cWorksLLC&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cWorksLLC&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=cWorksLLC&label=profile%20views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
