@@ -1,4 +1,6 @@
-(dont mistake me or my organizations for a real company)
+(dont mistake me or my organizations for a real company/ies)
+# please read
+this is an inactive account. BUT i am working on something that will involve GitHub and TurboWarp. Please be patient.
 # about me
 hi, im a casual programmer on github sharing my work. i am currently working from a win11 computer but wants to switch to linux. i also may share some scratch-related stuff here. also i like old phones because post-2010 s30 gives a feeling of exploring it but i cant really describe it.
 ## statistics
